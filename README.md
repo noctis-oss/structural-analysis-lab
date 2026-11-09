@@ -16,7 +16,7 @@ One notebook per lab with every worked example and every practice problem that h
 | `notebooks-es/` | Spanish: `lab-1-resuelto.noefbook` … `lab-9-resuelto.noefbook`, `apendices-b-y-d-resueltos.noefbook` |
 
 **Import into Noctis Effect (iPad):** download the `.noefbook` file (open it on GitHub › *Download raw file*),
-then tap it in the Files app, or tap **Import** on the Home screen of Noctis Effect. It appears as a notebook with one
+then tap it in the Files app, or in Noctis Effect tap **Import** under **Notebooks** on **Home**. It appears as a notebook with one
 study per example. Built and read with Noctis Effect 1.0.0 (18).
 
 Solve each example by hand first; open the notebook to compare, not to skip the work.
@@ -57,7 +57,7 @@ Un cuaderno por lab con cada ejemplo resuelto y cada problema de práctica que t
 `notebooks-es/` (español) y `notebooks-en/` (inglés).
 
 **Importar en Noctis Effect (iPad):** descarga el archivo `.noefbook` (ábrelo en GitHub › *Download raw file*),
-tócalo en la app Archivos o toca **Importar** en la pantalla de inicio de Noctis Effect. Aparece como un cuaderno con un
+tócalo en la app Archivos o en Noctis Effect toca **Importar** en **Cuadernos**, en **Inicio**. Aparece como un cuaderno con un
 estudio por ejemplo. Hechos y leídos con Noctis Effect 1.0.0 (18).
 
 Resuelve cada ejemplo a mano primero; abre el cuaderno para comparar, no para saltarte el trabajo.
