@@ -1,0 +1,93 @@
+7.1 Delta_B0 (mm)                                            -8.4375 
+7.1 f_BB (mm/kN)                                             0.75 
+7.1 By                                                       11.25 kN
+7.1 Ay                                                       18.75 kN
+7.1 M_A (sagging +)                                          -11.25 kN m
+7.1 x(V=0)                                                   1.875 m
+7.1 Mmax                                                     6.32812 kN m
+7.1 FE By                                                    11.25 
+7.1 FE Ay                                                    18.75 
+7.1 FE MA (ccw reaction)                                     11.25 
+7.1 FE ymin (mm)                                             -0.365588 
+7.1 FE x at ymin                                             1.735 
+7.1 FE theta_B (rad)                                         0.00046875 
+7.1 zero moment x                                            0.75 
+7.2 Delta_B0 (mm)                                            -13.3333 
+7.2 f_BB (mm/kN)                                             0.444444 
+7.2 f_BB by VW (mm/kN)                                       0.444444 
+7.2 int m^2                                                  10.6667 
+7.2 By                                                       30 kN
+7.2 Ay=Cy                                                    9 
+7.2 M_B                                                      -12 
+7.2 x(V=0)                                                   1.5 
+7.2 Mmax                                                     6.75 
+7.2 FE Ay                                                    9 
+7.2 FE By                                                    30 
+7.2 FE Cy                                                    9 
+7.2 FE ymin (mm)                                             -0.34663 
+7.2 FE x ymin                                                1.69 
+7.2 FE theta_A                                               -0.000333333 
+7.2 M zero at x                                              3 
+P7.x By with 5 mm settlement                                 18.75 
+   Ay                                                        14.625 
+   MB                                                        10.5 
+   check y(4) with that By (mm)                              -5 
+7.3 AB: int mM                                               170.667 
+7.3 AB: int m^2                                              21.3333 
+7.3 AB: m at 0, end                                          -0 
+      m end 4.0
+7.3 BC: int mM                                               1104 
+7.3 BC: int m^2                                              96 
+7.3 BC: m at 0, end                                          4 
+      m end 4.0
+7.3 DC: int mM                                               0 
+7.3 DC: int m^2                                              21.3333 
+7.3 DC: m at 0, end                                          -0 
+      m end -4.0
+7.3 sum int mM (kN m^3)                                      1274.67 
+7.3 sum int m^2 (m^3)                                        138.667 
+7.3 Dx (rigid axial)                                         -9.19231 kN
+7.3 Ax                                                       1.19231 
+   7.3 final AB 0 (np.float64(-24.6667), np.float64(-1.1923), np.float64(-0.0))
+   7.3 final AB 4 (np.float64(-24.6667), np.float64(-1.1923), np.float64(-4.7692))
+   7.3 final BC 0 (np.float64(-9.1923), np.float64(24.6667), np.float64(-4.7692))
+   7.3 final BC 6 (np.float64(-9.1923), np.float64(-35.3333), np.float64(-36.7692))
+   7.3 final DC 0 (np.float64(-35.3333), np.float64(9.1923), np.float64(-0.0))
+   7.3 final DC 4 (np.float64(-35.3333), np.float64(9.1923), np.float64(36.7692))
+7.3 beam Mmax                                                25.6529 
+   at t                                                      2.47 
+7.3 beam V at B                                              24.6667 
+7.3 exact t(V=0)                                             2.46667 
+7.3 exact Mmax                                               25.653 
+7.3 FE (realistic A=76 cm2) Ax                               1.18708 
+     Ay                                                      24.6667 
+     Dx                                                      -9.18708 
+     Dy                                                      35.3333 
+     ux B (mm)                                               7.50351 
+     uy mid-beam? (n/a)                                      0 
+7.3 FE (rigid axial A=10 m2) Ax                              1.1923 
+     Ay                                                      24.6667 
+     Dx                                                      -9.1923 
+     Dy                                                      35.3333 
+     ux B (mm)                                               7.46669 
+     uy mid-beam? (n/a)                                      0 
+7.3 FE primary ux_D (mm)                                     63.7333 
+    hand Delta/EI (mm)                                       63.7334 
+7.3 FE f_DD (mm/kN)                                          6.93334 
+    hand fDD/EI (mm/kN)                                      6.93333 
+P7.1 By                                                      6.25 
+P7.1 Ay                                                      13.75 
+P7.1 MA (sagging)                                            -11.25 
+P7.1 M under load                                            9.375 
+P7.1 FE By                                                   6.25 
+P7.1 FE MA ccw                                               11.25 
+P7.2 FE check: y(4) mm                                       -5 
+P7.3 sum mM                                                  720 
+P7.3 Dx                                                      -5.19231 
+P7.3 Ax                                                      5.19231 
+P7.3 M at B (beam)                                           -20.7692 
+P7.3 M mid-beam                                              24.2308 
+P7.3 FE rigid Dx                                             -5.19231 
+P7.3 FE A=76 Dx                                              -5.18935 
+P7.4 Cx                                                      -6 
+P7.4 N_AC = 6 + Cx                                           8.88178e-16 

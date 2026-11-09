@@ -1,0 +1,70 @@
+6.1 EI                                                     12000 kN m2
+6.1 hand theta_B = -PL^2/2EI                               -0.0075 rad
+6.1 hand v_B = -PL^3/3EI                                   -15 mm
+6.1 hand v(1.5)                                            -4.6875 mm
+6.1 FE   theta_B                                           -0.0075 rad
+6.1 FE   v_B                                               -15 mm
+6.1 FE   v(1.5)                                            -4.6875 mm
+6.1 v_B with 2I                                            -7.5 mm
+6.1 v_B with 2L                                            -120 mm
+6.2 EI                                                     24000 kN m2
+6.2 hand C1 = -wL^3/24                                     -128 kN m2
+6.2 hand theta_A                                           -0.00533333 rad
+6.2 hand theta_B                                           0.00533333 rad
+6.2 hand v(4) = -5wL^4/384EI                               -13.3333 mm
+6.2 hand 5wL^4/384EI                                       13.3333 mm
+6.2 hand v(2)                                              -9.5 mm
+6.2 FE   theta_A                                           -0.00533333 rad
+6.2 FE   v(4)                                              -13.3333 mm
+6.2 FE   v(2)                                              -9.5 mm
+6.2 L/360                                                  22.2222 mm
+6.3 integral part 1                                        94.5 kN m3
+6.3 integral part 2                                        81.8438 kN m3
+6.3 integral part 3                                        17.7188 kN m3
+6.3 sum                                                    194.062 kN m3
+6.3 hand v(3) = -sum/EI                                    -9.70312 mm
+6.3 FE   v(3)                                              -9.70313 mm
+6.3 FE   v_min                                             -9.70446 mm
+6.3 FE   x at v_min                                        3.025 m
+6.3 FE   v(4.5)                                            -7.0875 mm
+6.3 FE   theta_A                                           -0.00514688 rad
+6.3 FE   theta_B                                           0.00531563 rad
+6.3 VW theta_A (cw +)                                      0.00514688 rad
+6.4 n N L  AB                                              10.125 kN m
+6.4 n N L  BC                                              46.875 kN m
+6.4 n N L  AC                                              24 kN m
+6.4 sum nNL                                                81 kN m
+6.4 hand Delta_Bx                                          1.0125 mm
+6.4 hand Delta_By (down +)                                 -0.16875 mm
+6.4 FE   u_B, v_B                                          0 mm  (1.01250, 0.16875)
+6.4 FE   u_C, v_C                                          0 mm  (0.30000, 0.00000)
+6.3 FE theta(3) rad -8.437595572385256e-05  deg -0.004834386155359453
+6.3 FE fine v_min -9.704467605211766 at 3.035
+6.3 thetaA part 0 3 69.75
+6.3 thetaA part 3 4.5 27.28125
+6.3 thetaA part 4.5 6 5.90625
+deg conversions: 6.1 -0.4297183463481174  6.2 -0.3055774888265797  6.3A -0.2948945016602932
+P6.1 hand vB -8.4375 mm  thetaB -0.00375 rad -0.2148591731740587 deg
+P6.1 FE   vB -8.437497025511094 thetaB -0.003749998576788618
+P6.2 VW 320.0 /EI -> -13.333333333333334 mm
+P6.3 M(0) -320.0  integral 4710.400000000003  vB -47.104000000000035 mm
+P6.3 FE vB (piecewise udl) -47.10407977755766
+P6.4 Delta_Cx 0.3 mm
+6.4 U = P Delta / 2 = 3.0374999999999996 J (kN*mm)
+6.3 exact v_max -9.704563705828212 mm at x = 3.03411  EI*theta_A = -102.93749999977304
+6.1 table x=0: EIth=0.0000 th=0.000000 EIv=0.0000 v=0.0000 mm
+6.1 table x=0.75: EIth=-39.3750 th=-0.003281 EIv=-15.4688 v=-1.2891 mm
+6.1 table x=1.5: EIth=-67.5000 th=-0.005625 EIv=-56.2500 v=-4.6875 mm
+6.1 table x=2.25: EIth=-84.3750 th=-0.007031 EIv=-113.9062 v=-9.4922 mm
+6.1 table x=3: EIth=-90.0000 th=-0.007500 EIv=-180.0000 v=-15.0000 mm
+6.2 table x=0: EIth=-128.0000 th=-0.005333 EIv=0.0000 v=0.0000 mm
+6.2 table x=1: EIth=-117.0000 th=-0.004875 EIv=-124.2500 v=-5.1771 mm
+6.2 table x=2: EIth=-88.0000 th=-0.003667 EIv=-228.0000 v=-9.5000 mm
+6.2 table x=3: EIth=-47.0000 th=-0.001958 EIv=-296.2500 v=-12.3438 mm
+6.2 table x=4: EIth=0.0000 th=0.000000 EIv=-320.0000 v=-13.3333 mm
+P6.5 FE v_B -4.687498329965069  v(1.5) -1.8749994668647605  theta_B -0.0018749991998776741
+P6.5 VW integral 56.25000000000001  v_B -4.687500000000001
+P6.6 part 0 3 31.500000000000004
+P6.6 part 3 4.5 45.28125
+P6.6 part 4.5 6 29.531249999999996
+P6.6 sum 106.3125  theta_B = 0.005315625  deg 0.3045628779742282

@@ -1,0 +1,6 @@
+Ex 2.1 {'Ax': np.float64(-4.0), 'Ay': np.float64(8.666666666666666), 'Dy': np.float64(9.333333333333334)}
+Ex 2.2 {'Ax': np.float64(-8.0), 'Ay': np.float64(10.0), 'MA': np.float64(46.0)}
+Ex 2.3 {'Ax': np.float64(6.0), 'Ay': np.float64(18.0), 'Bx': np.float64(-6.0), 'By': np.float64(6.0)}
+P2.4   {'Ax': np.float64(-6.0), 'Ay': np.float64(-6.0), 'Bx': np.float64(-6.0), 'By': np.float64(6.0)}
+P2.2   {'Ax': np.float64(-3.0), 'Ay': np.float64(6.711333333333333), 'Dy': np.float64(7.288666666666667)}
+P2.3   {'Ax': np.float64(-6.0), 'Ay': np.float64(5.5), 'Cy': np.float64(14.5)}
