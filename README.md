@@ -42,7 +42,7 @@ corrections. It is internal quality control, not certification.
 
 ## License
 
-MIT (scripts and notebooks). The book text is © 2026 Yonatan Orion and is not part of this repository.
+MIT (scripts and notebooks). The book text is © 2026 Yonatan Ali Rodríguez Arias and is not part of this repository.
 
 ---
 
@@ -69,4 +69,4 @@ ecuaciones de cada lab. Cada `*.py` imprime los valores que usa el libro; el `*.
 
 ## Licencia
 
-MIT (scripts y cuadernos). El texto del libro es © 2026 Yonatan Orion y no forma parte de este repositorio.
+MIT (scripts y cuadernos). El texto del libro es © 2026 Yonatan Ali Rodríguez Arias y no forma parte de este repositorio.
